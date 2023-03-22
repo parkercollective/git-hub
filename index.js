@@ -40,7 +40,7 @@ ${this.displayItem(this.ticTacToe[6])} | ${this.displayItem(this.ticTacToe[7])} 
         this.readMove(parseInt(input))
         // continue playing
       } else {
-        console.log("Game Ended!");
+        console.log("Game ENDED!");
         this.processGame();
       }
     })
