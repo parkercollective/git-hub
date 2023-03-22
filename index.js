@@ -19,7 +19,7 @@ class TicTacToe {
 
   }
 
-  /// update layout
+  /// update layout now
   updateLayout(){
     this.ticTacToeLayout = `${this.displayItem(this.ticTacToe[0])} | ${this.displayItem(this.ticTacToe[1])} | ${this.displayItem(this.ticTacToe[2])}
 ---------
