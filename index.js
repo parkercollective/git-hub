@@ -1,6 +1,6 @@
 const readline = require('readline')
 
-'use strict';
+'use testing strict';
 
 class TicTacToe {
   constructor(){
@@ -187,7 +187,7 @@ ${this.displayItem(this.ticTacToe[6])} | ${this.displayItem(this.ticTacToe[7])} 
       // continue play
       this.continuePlay()
     } else {
-      console.log("Can't delete any more moves!!");
+      console.log("Can't delete any more moves!!!!!!!!!!!!!!");
       // continue play
       this.continuePlay(true); // don't change player with the next move
     }
