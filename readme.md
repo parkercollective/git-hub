@@ -20,18 +20,18 @@ On prompt provide the position to place your next character in the range of 1-9.
 
 <table>
     <tr>
-        <td>1</td>
-        <td>2</td>
-        <td>3</td>
+        <td>A</td>
+        <td>B</td>
+        <td>C</td>
     </tr>
     <tr>
-        <td>4</td>
-        <td>5</td>
-        <td>6</td>
+        <td>D</td>
+        <td>E</td>
+        <td>F</td>
     </tr>
     <tr>
-        <td>7</td>
-        <td>8</td>
-        <td>9</td>
+        <td>G</td>
+        <td>H</td>
+        <td>I</td>
     </tr>
 </table>
